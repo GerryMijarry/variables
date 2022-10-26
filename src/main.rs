@@ -1,6 +1,6 @@
 fn main() {
     let mut target = "world";
-    let mut greeting = "Hello";
+    let greeting = "Hello";
     println!("{}, {}", greeting, target);
     target = "mate";
     println!("{},{}", greeting, target);
